@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="616554a1-f99f-4f2c-bed1-7329488ad748" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/service-one/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-config-server/target/" />
+    <ignored path="$PROJECT_DIR$/service-two/target/" />
+    <ignored path="$PROJECT_DIR$/currency-conversion-service/target/" />
+    <ignored path="$PROJECT_DIR$/netflix-eureka-naming-server/target/" />
+    <ignored path="$PROJECT_DIR$/netflix-zuul-api-gateway-server/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/currency-conversion-service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/service-one/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-one/src/main/kotlin/com/jabito/microservices/serviceone/bean/LimitConfiguration.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-one/src/main/kotlin/com/jabito/microservices/serviceone/controller/LimitsConfigurationController.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="18" column="91" selection-start-line="18" selection-start-column="91" selection-end-line="18" selection-end-column="91" />
+              <folding>
+                <element signature="e#56#366#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-one/src/main/kotlin/com/jabito/microservices/serviceone/ServiceOneApplication.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+              <folding>
+                <element signature="e#45#375#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>spring-boot-con</find>
+      <find>\</find>
+      <find>actuator</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\jrjavier\Desktop\Microservices\spring-cloud-config-server\git-localconfig-repo</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/git-localconfig-repo" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/service-one/src/main/kotlin/com/jabito/microservices/serviceone/bean/Configuration.kt" />
+        <option value="$PROJECT_DIR$/service-one/src/main/kotlin/com/jabito/microservices/serviceone/bean/LimitConfiguration.kt" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-server/src/main/kotlin/com/jabito/microservices/springcloudconfigserver/SpringCloudConfigServerApplication.kt" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/git-localconfig-repo/limits-service-qa.properties" />
+        <option value="$PROJECT_DIR$/git-localconfig-repo/limits-service.properties" />
+        <option value="$PROJECT_DIR$/git-localconfig-repo/limits-service-dev.properties" />
+        <option value="$PROJECT_DIR$/service-one/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/service-two/src/main/kotlin/com/jabito/microservices/servicetwo/data/ExchangeValue.kt" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/kotlin/com/jabito/microservices/currencyconversionservice/bean/CurrencyConversionBean.kt" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/kotlin/com/jabito/microservices/currencyconversionservice/interface/CurrencyExchangeServiceProxy.kt" />
+        <option value="$PROJECT_DIR$/netflix-eureka-naming-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/netflix-eureka-naming-server/src/main/kotlin/com/jabito/microservices/netflixeurekanamingserver/NetflixEurekaNamingServerApplication.kt" />
+        <option value="$PROJECT_DIR$/service-two/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/service-one/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/kotlin/com/jabito/microservices/netflixzuulapigatewayserver/filter/ZuulLoggingFilter.kt" />
+        <option value="$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/kotlin/com/jabito/microservices/netflixzuulapigatewayserver/NetflixZuulApiGatewayServerApplication.kt" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/kotlin/com/jabito/microservices/currencyconversionservice/CurrencyConversionServiceApplication.kt" />
+        <option value="$PROJECT_DIR$/service-two/src/main/kotlin/com/jabito/microservices/servicetwo/ServiceTwoApplication.kt" />
+        <option value="$PROJECT_DIR$/service-two/src/main/kotlin/com/jabito/microservices/servicetwo/controller/CurrencyExchangeController.kt" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/kotlin/com/jabito/microservices/currencyconversionservice/controller/CurrencyConversionController.kt" />
+        <option value="$PROJECT_DIR$/netflix-eureka-naming-server/pom.xml" />
+        <option value="$PROJECT_DIR$/netflix-zuul-api-gateway-server/pom.xml" />
+        <option value="$PROJECT_DIR$/service-two/pom.xml" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/pom.xml" />
+        <option value="$PROJECT_DIR$/service-one/src/main/kotlin/com/jabito/microservices/serviceone/ServiceOneApplication.kt" />
+        <option value="$PROJECT_DIR$/service-one/src/main/kotlin/com/jabito/microservices/serviceone/controller/LimitsConfigurationController.kt" />
+        <option value="$PROJECT_DIR$/service-one/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Microservices" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Microservices" type="58d84e3e:PackageViewProjectNode" />
+              <item name="spring-cloud-config-server" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580340456342" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/netflix-zuul-api-gateway-server/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jrjavier\Desktop\Microservices\git-localconfig-repo" />
+      <recent name="C:\Users\jrjavier\Desktop\Microservices" />
+      <recent name="C:\Users\jrjavier\Desktop\Microservices\spring-cloud-config-server\git-localconfig-repo" />
+      <recent name="C:\Users\jrjavier\Desktop\Microservices\spring-cloud-config-server" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jrjavier\Desktop\Microservices\git-localconfig-repo" />
+    </key>
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="com.jabito.microservices.currencyconversionservice.bean" />
+      <recent name="com.jabito.microservices.servicetwo.data" />
+      <recent name="com.jabito.microservices.serviceone.bean" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringCloudConfigServer[8888]">
+    <configuration name="CurrencyConversionServiceApplication[8100]" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="currency-conversion-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jabito.microservices.currencyconversionservice.CurrencyConversionServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencyConversionServiceApplication[8101]" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="currency-conversion-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jabito.microservices.currencyconversionservice.CurrencyConversionServiceApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8101" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetflixEurekaNamingServerApplication[8761]" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="netflix-eureka-naming-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jabito.microservices.netflixeurekanamingserver.NetflixEurekaNamingServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetflixZuulApiGatewayServerApplication[8765]" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="netflix-zuul-api-gateway-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jabito.microservices.netflixzuulapigatewayserver.NetflixZuulApiGatewayServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceOneApplication[8080]" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-one" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jabito.microservices.serviceone.ServiceOneApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceTwoApplication[8000]" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-two" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jabito.microservices.servicetwo.ServiceTwoApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8000" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceTwoApplication[8001]" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-two" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jabito.microservices.servicetwo.ServiceTwoApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudConfigServer[8888]" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jabito.microservices.springcloudconfigserver.SpringCloudConfigServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ServiceOneApplication[8080]" />
+      <item itemvalue="Spring Boot.SpringCloudConfigServer[8888]" />
+      <item itemvalue="Spring Boot.ServiceTwoApplication[8000]" />
+      <item itemvalue="Spring Boot.ServiceTwoApplication[8001]" />
+      <item itemvalue="Spring Boot.CurrencyConversionServiceApplication[8100]" />
+      <item itemvalue="Spring Boot.CurrencyConversionServiceApplication[8101]" />
+      <item itemvalue="Spring Boot.NetflixEurekaNamingServerApplication[8761]" />
+      <item itemvalue="Spring Boot.NetflixZuulApiGatewayServerApplication[8765]" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="616554a1-f99f-4f2c-bed1-7329488ad748" name="Default Changelist" comment="" />
+      <created>1580257925853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580257925853</updated>
+      <workItem from="1580257927461" duration="27135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27135000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18154311" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32911393" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5497553" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" visible="true" weight="0.17170954" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/spring-cloud-config-server/git-localconfig-repo" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/service-one/src/main/kotlin/com/jabito/microservices/serviceone/bean/Configuration.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="e#50#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/src/main/kotlin/com/jabito/microservices/springcloudconfigserver/SpringCloudConfigServerApplication.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git-localconfig-repo/limits-service-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git-localconfig-repo/limits-service.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git-localconfig-repo/limits-service-qa.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-one/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/math/BigDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="1268" column="29" selection-start-line="1268" selection-start-column="29" selection-end-line="1268" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-two/src/main/kotlin/com/jabito/microservices/servicetwo/data/ExchangeValue.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/kotlin/com/jabito/microservices/currencyconversionservice/bean/CurrencyConversionBean.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/kotlin/com/jabito/microservices/currencyconversionservice/interface/CurrencyExchangeServiceProxy.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <element signature="e#72#330#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-eureka-naming-server/src/main/kotlin/com/jabito/microservices/netflixeurekanamingserver/NetflixEurekaNamingServerApplication.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-eureka-naming-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-two/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/kotlin/com/jabito/microservices/netflixzuulapigatewayserver/filter/ZuulLoggingFilter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding>
+            <element signature="e#69#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/kotlin/com/jabito/microservices/netflixzuulapigatewayserver/NetflixZuulApiGatewayServerApplication.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" selection-start-line="18" selection-end-line="19" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/kotlin/com/jabito/microservices/currencyconversionservice/CurrencyConversionServiceApplication.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-two/src/main/kotlin/com/jabito/microservices/servicetwo/ServiceTwoApplication.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-two/src/main/kotlin/com/jabito/microservices/servicetwo/controller/CurrencyExchangeController.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/kotlin/com/jabito/microservices/currencyconversionservice/controller/CurrencyConversionController.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-eureka-naming-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-two/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-zuul-api-gateway-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-one/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="66" selection-start-line="3" selection-start-column="66" selection-end-line="3" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-one/src/main/kotlin/com/jabito/microservices/serviceone/ServiceOneApplication.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding>
+            <element signature="e#45#375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-one/src/main/kotlin/com/jabito/microservices/serviceone/bean/LimitConfiguration.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-one/src/main/kotlin/com/jabito/microservices/serviceone/controller/LimitsConfigurationController.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="18" column="91" selection-start-line="18" selection-start-column="91" selection-end-line="18" selection-end-column="91" />
+          <folding>
+            <element signature="e#56#366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-one/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Kotlin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring-cloud-config-server</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
